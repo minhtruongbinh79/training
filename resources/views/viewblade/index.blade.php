@@ -1,4 +1,4 @@
-@extends('view blade.app')
+@extends('viewblade.app')
 
 @section('content')
     @include('view blade.header')
